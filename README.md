@@ -31,6 +31,8 @@ You need a printer capable of printing a **405mm** object. I had to slighlty inc
 
 [More pictures](Photos/)
 
+[Icons for the Relegendables](https://github.com/Technofrikus/Fusion360-Tool-Icons) 
+
 
 ---
 ## Hardware needed
