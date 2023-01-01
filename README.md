@@ -40,6 +40,7 @@ You need a printer capable of printing a **405mm** object. I had to slighlty inc
 - 8x M3x10 cylinder head screws (ISO 4762, button head work too) to connect the two case halfes 
 - 10x M3x5 cylinder head screws (ISO 4762, button head work too) to mount the plate on the top case
 - 18x M3x4mm threaded insert
+- 4x M2x5mm screw for the daughterboard
 - 4x 10mm feet
 
 ### for the original version
