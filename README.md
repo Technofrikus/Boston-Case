@@ -19,7 +19,7 @@ So I took the metal version and optimized it for printing:
 - Added a version with **4 degree typing angle**, instead of the 6.5 of the Original (both versions available)
 
 #### Revisions
-UPDATE 24.11.2023: Added Version for S1-Daughterboard instead of C3 (STEP only, not STLs). 
+UPDATE 24.11.2023: Added Version for S1-Daughterboard instead of C3. 
 
 ---
 
